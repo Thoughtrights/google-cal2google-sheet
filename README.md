@@ -24,3 +24,4 @@ Have a Google calendar.
 - Color code things by their color in Google Calendar
 - Exclude vacation and out-of-office better
 - Option to exclude "meetings" without any other attendees
+- If it's the current year, stop reporting after the current week b/c it will only show lots of free time, some planned meetings, and recurring meetings
