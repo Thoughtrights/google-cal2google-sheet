@@ -2,7 +2,7 @@
 
 /* CHANGE ME: enter the calendar year you want to compute
  *         vvvv  */
-var year = 2024;
+var year = 2025;
 
 
 var email = Session.getActiveUser().getEmail();
