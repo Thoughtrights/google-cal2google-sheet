@@ -2,7 +2,7 @@
 
 # Requirements
 
-Have a google calendar.
+Have a Google calendar.
 
 
 # Installation
@@ -11,4 +11,16 @@ Have a google calendar.
 2. Go to Extensions > Apps Script
 3. Dump this script in
 4. Adjust the calendar year
-5. Run `etl_cal`
+5. Review the code so you're cool with letting it see your calendar
+6. Save it
+7. Run the `etl_cal` function
+8. Allow permissions
+9. You should see an execution log find your calendar and process events -- it may take a while if your calendar is crazy
+10. After it's done, go to your sheet and make some graphs
+
+
+# Future Items
+
+- Color code things by their color in Google Calendar
+- Exclude vacation and out-of-office better
+- Option to exclude "meetings" without any other attendees
